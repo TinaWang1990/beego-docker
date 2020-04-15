@@ -1,0 +1,1 @@
+docker build -t beego-docker-deploy -f Dockerfile.deploy .
